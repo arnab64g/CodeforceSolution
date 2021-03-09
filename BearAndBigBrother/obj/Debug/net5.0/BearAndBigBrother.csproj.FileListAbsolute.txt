@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.exe
+c:\Users\Arnab\Documents\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.deps.json
+c:\Users\Arnab\Documents\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.runtimeconfig.json
+c:\Users\Arnab\Documents\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.dll
+c:\Users\Arnab\Documents\BearAndBigBrother\bin\Debug\net5.0\ref\BearAndBigBrother.dll
+C:\Users\Arnab\Documents\BearAndBigBrother\bin\Debug\net5.0\BearAndBigBrother.pdb
+C:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.AssemblyInfo.cs
+C:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.dll
+C:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\ref\BearAndBigBrother.dll
+C:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.pdb
+c:\Users\Arnab\Documents\BearAndBigBrother\obj\Debug\net5.0\BearAndBigBrother.genruntimeconfig.cache
