@@ -1,0 +1,16 @@
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/VanyaAndFence.csprojAssemblyReference.cache
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/VanyaAndFence.GeneratedMSBuildEditorConfig.editorconfig
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/VanyaAndFence.AssemblyInfoInputs.cache
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/VanyaAndFence.AssemblyInfo.cs
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/VanyaAndFence.csproj.CoreCompileInputs.cache
+/home/arnabg/Documents/VanyaAndFence/bin/Debug/net5.0/VanyaAndFence
+/home/arnabg/Documents/VanyaAndFence/bin/Debug/net5.0/VanyaAndFence.deps.json
+/home/arnabg/Documents/VanyaAndFence/bin/Debug/net5.0/VanyaAndFence.runtimeconfig.json
+/home/arnabg/Documents/VanyaAndFence/bin/Debug/net5.0/VanyaAndFence.runtimeconfig.dev.json
+/home/arnabg/Documents/VanyaAndFence/bin/Debug/net5.0/VanyaAndFence.dll
+/home/arnabg/Documents/VanyaAndFence/bin/Debug/net5.0/ref/VanyaAndFence.dll
+/home/arnabg/Documents/VanyaAndFence/bin/Debug/net5.0/VanyaAndFence.pdb
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/VanyaAndFence.dll
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/ref/VanyaAndFence.dll
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/VanyaAndFence.pdb
+/home/arnabg/Documents/VanyaAndFence/obj/Debug/net5.0/VanyaAndFence.genruntimeconfig.cache
