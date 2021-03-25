@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\Panagram\bin\Debug\net5.0\Panagram.exe
+c:\Users\Arnab\Documents\Panagram\bin\Debug\net5.0\Panagram.deps.json
+c:\Users\Arnab\Documents\Panagram\bin\Debug\net5.0\Panagram.runtimeconfig.json
+c:\Users\Arnab\Documents\Panagram\bin\Debug\net5.0\Panagram.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\Panagram\bin\Debug\net5.0\Panagram.dll
+c:\Users\Arnab\Documents\Panagram\bin\Debug\net5.0\ref\Panagram.dll
+C:\Users\Arnab\Documents\Panagram\bin\Debug\net5.0\Panagram.pdb
+C:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\Panagram.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\Panagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\Panagram.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\Panagram.AssemblyInfo.cs
+C:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\Panagram.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\Panagram.dll
+C:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\ref\Panagram.dll
+C:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\Panagram.pdb
+c:\Users\Arnab\Documents\Panagram\obj\Debug\net5.0\Panagram.genruntimeconfig.cache
