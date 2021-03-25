@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\IQTest\bin\Debug\net5.0\IQTest.exe
+c:\Users\Arnab\Documents\IQTest\bin\Debug\net5.0\IQTest.deps.json
+c:\Users\Arnab\Documents\IQTest\bin\Debug\net5.0\IQTest.runtimeconfig.json
+c:\Users\Arnab\Documents\IQTest\bin\Debug\net5.0\IQTest.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\IQTest\bin\Debug\net5.0\IQTest.dll
+c:\Users\Arnab\Documents\IQTest\bin\Debug\net5.0\ref\IQTest.dll
+C:\Users\Arnab\Documents\IQTest\bin\Debug\net5.0\IQTest.pdb
+C:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\IQTest.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\IQTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\IQTest.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\IQTest.AssemblyInfo.cs
+C:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\IQTest.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\IQTest.dll
+C:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\ref\IQTest.dll
+C:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\IQTest.pdb
+c:\Users\Arnab\Documents\IQTest\obj\Debug\net5.0\IQTest.genruntimeconfig.cache
