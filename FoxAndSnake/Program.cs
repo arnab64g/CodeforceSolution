@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace FoxAndSnake
 {
     class Program
@@ -17,8 +16,7 @@ namespace FoxAndSnake
             }
             for (int i = 0; i < n; i++){
                 d = i%4;
-                switch (d)
-                {
+                switch (d){
                     case 0:
                     case 2:
                         for (int j = 0; j < m; j++)
