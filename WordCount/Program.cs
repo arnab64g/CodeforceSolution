@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace WordCount
 {
     class Program
@@ -13,11 +12,8 @@ namespace WordCount
             {
                 s = Console.ReadLine();
                 if (s.Length <= 10)
-                {
                     Console.WriteLine(s);                    
-                }
-                else
-                {
+                else{
                     ns = "";
                     ns += s[0];
                     ns += Convert.ToString(s.Length - 2);
