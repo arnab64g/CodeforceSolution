@@ -1,14 +1,12 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
 int main()
 {
     string s;
     cin >> s;
     int l = s.length(), count = 0;
-    while (l--)
-    {
+    while (l--){
         if(isupper(s[l]))
             count++;
     }
