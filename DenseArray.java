@@ -1,11 +1,8 @@
-
 import java.util.Scanner;
-
 /**
  * DenseArray
  */
 public class DenseArray {
-
     static int ToAddNumbers(int a1, int a2){
         int max  = (a1 > a2) ? a1:a2;
         int min  = (a1 < a2) ? a1:a2;
