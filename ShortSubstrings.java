@@ -12,7 +12,6 @@ public class ShortSubstrings {
             s = sc.next();
             char[] ch = s.toCharArray();
             len = ch.length;
-           
             b = "";
             for (int j = 0; j < len-1; j += 2) {
                 b += ch[j];
