@@ -32,24 +32,19 @@ public class CutRibbon {
                 if (sm%a == 0) {
                     sm /= a;
                     len = sm*a+i*c+j*b;
-                    
                     break;
                 }
             }
             if (len == n) {
                 count = i+j+sm;
                 len = 0;
-                
                 array[top] = count;
                 top++;
             }
         }
-        for (int i = 0; i < top; i++) {
+        for (int i = 0; i < top; i++)
             if(array[i] > max)
                 max = array[i];
-                
-        }
         System.out.println(max);
     }
-    
 }
