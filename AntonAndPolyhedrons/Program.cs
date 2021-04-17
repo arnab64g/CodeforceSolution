@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace AntonAndPolyhedrons
 {
     class Program
@@ -17,7 +16,6 @@ namespace AntonAndPolyhedrons
                 return 20;
             else
                 return 0;
-
         }
         static void Main(string[] args)
         {
