@@ -30,5 +30,4 @@ public class YoungPhysicst {
             System.out.println("YES");
         else System.out.println("NO");
     }
-    
 }
