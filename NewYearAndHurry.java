@@ -18,6 +18,5 @@ public class NewYearAndHurry {
             else break;
         }
         System.out.println(count);
-        
     }
 }
