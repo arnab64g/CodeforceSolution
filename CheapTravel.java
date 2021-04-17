@@ -1,10 +1,8 @@
 import java.util.Scanner;
-
 /**
  * CheapTravel
  */
 public class CheapTravel {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
