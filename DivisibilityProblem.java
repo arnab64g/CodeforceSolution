@@ -9,9 +9,8 @@ public class DivisibilityProblem {
             b = sc.nextInt();
             if(a%b == 0)
                 d = 0;
-            else{
+            else
                 d = b- a%b;
-            }
             System.out.println(d);
         }
         sc.close();
