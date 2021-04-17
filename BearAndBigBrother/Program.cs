@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace BearAndBigBrother
 {
     class Program
@@ -10,8 +9,7 @@ namespace BearAndBigBrother
             string []s = Console.ReadLine().Split(' ');
             l = int.Parse(s[0]);
             b = int.Parse(s[1]);
-            while (true)
-            {
+            while (true){
                 l *= 3;
                 b *= 2;
                 count++;
