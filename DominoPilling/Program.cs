@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System; 
 namespace DominoPilling
 {
     class Program
