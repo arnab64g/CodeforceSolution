@@ -16,7 +16,7 @@ public class RestoreThePermutationByMerger {
                 if(!a[value - 1]){
                     array[count++] = value;
                     a[value - 1] = true;
-                }                
+                }
             }
             for (int x : array)
                 System.out.print(x+" ");
