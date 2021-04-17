@@ -37,8 +37,7 @@ fun main() {
                 s3 = ')'
             else if(b > a)
                 s3 = '('
-            else {
-              
+            else { 
                 s3 = 'X'
                 if(a+b != len)
                     res = false
@@ -49,7 +48,6 @@ fun main() {
                     cs[i] = s3
                 i++
             }
-        
             i = 0
             while(i < len-1){
                 while(i <= len-1){
@@ -60,8 +58,7 @@ fun main() {
                 var j = i+1
                 while(j < len){
                     if(cs[j] != ')')
-                        j++
-            
+                        j++   
                     else break
             }
             if(j < len && i < len){
@@ -70,7 +67,6 @@ fun main() {
             }
             i++
         }
-        
         i = 0
         while(i < len){
             if(cs[i] != '0'){
@@ -78,8 +74,7 @@ fun main() {
                 break
             }
             i++
-        }      
-      
+        }       
         if(res)
             println("YES")
         else println("NO")
