@@ -15,7 +15,6 @@ namespace IQTest
         }
         static int countEvenPos(int []x, int n){
             int pos = 0;
-            
             for (int i = 0; i < n; i++){
                 if(x[i]%2 == 0){
                     pos = i;
@@ -37,7 +36,6 @@ namespace IQTest
                     ce++;
                 else co++;
             }
-          
             if(ce < 2)
                 pos = countEvenPos(numbers, n);
             else pos = countOddPos(numbers, n);
