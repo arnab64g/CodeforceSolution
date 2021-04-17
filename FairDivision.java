@@ -20,7 +20,7 @@ public class FairDivision {
             }
             else{
                 if(wt[0] >= 2 && wt[0] % 2 == 0 )
-                    System.out.println("YES");
+                   System.out.println("YES");
                 else System.out.println("NO");
             }
         }
