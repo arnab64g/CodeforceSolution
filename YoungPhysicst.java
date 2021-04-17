@@ -18,9 +18,8 @@ public class YoungPhysicst {
         sc.close();
         boolean result = false;
         for(int i = 0; i<3; i++){
-            if (sum[i] == 0) {
+            if (sum[i] == 0) 
                 result = true;
-            }
             else {
                 result = false;
                 break;
