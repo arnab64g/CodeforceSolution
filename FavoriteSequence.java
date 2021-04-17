@@ -1,10 +1,8 @@
 import java.util.Scanner;
-
 /**
  * FavoriteSequence
  */
 public class FavoriteSequence {
-
     public static void main(String[] args) {
         int t;
         Scanner sc = new Scanner(System.in);
