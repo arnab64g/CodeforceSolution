@@ -3,11 +3,9 @@
  */
 import java.util.Scanner;
 public class EqualizePricesAgain {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t, n, p, sum;
-        
         t = sc.nextInt();
         for (int i = 0; i < t; i++) {
             n = sc.nextInt();
