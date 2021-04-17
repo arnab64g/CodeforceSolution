@@ -24,8 +24,7 @@ namespace AmusingJoke
             char[] l3 = t.ToCharArray();
             countLetter(ttlcntlet, l3);
             for (int i = 0; i < 26; i++)
-                if (ttlcntlet[i] != cntlet[i])
-                {
+                if (ttlcntlet[i] != cntlet[i]){
                     ans = false;
                     break;
                 }
