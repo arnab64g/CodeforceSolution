@@ -26,11 +26,7 @@ fun main() {
                 len--
                 j++
             }
-            
                 s1[len ] = 'a'
-            
-                
-            
             println(s1)
         }
         else println("NO")
