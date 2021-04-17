@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class VasyaTheHipster {
+public class VasyaTheHipster{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int r, b, mxd, mxs;
