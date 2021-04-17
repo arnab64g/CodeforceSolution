@@ -11,7 +11,7 @@ public class BeautifulMatrix {
                 if (a[i][j] == 1) {
                     x = i;
                     y = j;
-                }                
+                }
             }
         sc.close();
         n = Math.abs(x-2) + Math.abs(y-2);
