@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace VanyaAndFence
 {
     class Program
@@ -12,13 +11,11 @@ namespace VanyaAndFence
             h = int.Parse(s[1]);
             int thig;
             string []hin = Console.ReadLine().Split(' ');
-            for (int i = 0; i < n; i++)
-            {
+            for (int i = 0; i < n; i++){
                 thig = int.Parse(hin[i]);
                 count += thig/h;
                 if(thig % h != 0)
                     count++;
-
             }
             Console.WriteLine(count);
         }
