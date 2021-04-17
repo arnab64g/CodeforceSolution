@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 int main()
 {
@@ -11,8 +10,6 @@ int main()
             res = true;
             break;
         }
-    
-    
     if (!res){
         for (int i = 0; i < s.length(); i++){
             if (islower(s[i]))
