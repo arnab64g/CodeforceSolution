@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class Games {
     public static void main(String[] args) {
@@ -17,6 +16,5 @@ public class Games {
                 if(h[i] == a[j])
                     count++;
         System.out.println(count);
-
     }
 }
