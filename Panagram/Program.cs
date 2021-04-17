@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Panagram
 {
     class Program
@@ -19,8 +18,7 @@ namespace Panagram
                 alph[c - 'A'] = true;
             }
             for (int i = 0; i < 26; i++)
-                if (!alph[i])
-                {
+                if (!alph[i]){
                     res = false;
                     break;
                 }
