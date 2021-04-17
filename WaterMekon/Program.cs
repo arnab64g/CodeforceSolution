@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace WaterMekon
 {
     class Program
