@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\SpaceNavigation\bin\Debug\net5.0\SpaceNavigation.exe
+c:\Users\Arnab\Documents\SpaceNavigation\bin\Debug\net5.0\SpaceNavigation.deps.json
+c:\Users\Arnab\Documents\SpaceNavigation\bin\Debug\net5.0\SpaceNavigation.runtimeconfig.json
+c:\Users\Arnab\Documents\SpaceNavigation\bin\Debug\net5.0\SpaceNavigation.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\SpaceNavigation\bin\Debug\net5.0\SpaceNavigation.dll
+c:\Users\Arnab\Documents\SpaceNavigation\bin\Debug\net5.0\ref\SpaceNavigation.dll
+C:\Users\Arnab\Documents\SpaceNavigation\bin\Debug\net5.0\SpaceNavigation.pdb
+C:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\SpaceNavigation.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\SpaceNavigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\SpaceNavigation.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\SpaceNavigation.AssemblyInfo.cs
+C:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\SpaceNavigation.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\SpaceNavigation.dll
+C:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\ref\SpaceNavigation.dll
+C:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\SpaceNavigation.pdb
+c:\Users\Arnab\Documents\SpaceNavigation\obj\Debug\net5.0\SpaceNavigation.genruntimeconfig.cache
