@@ -1,0 +1,16 @@
+C:\Users\arnab\Documents\CancelTheTrains\bin\Debug\net5.0\CancelTheTrains.exe
+c:\Users\arnab\Documents\CancelTheTrains\bin\Debug\net5.0\CancelTheTrains.deps.json
+c:\Users\arnab\Documents\CancelTheTrains\bin\Debug\net5.0\CancelTheTrains.runtimeconfig.json
+c:\Users\arnab\Documents\CancelTheTrains\bin\Debug\net5.0\CancelTheTrains.runtimeconfig.dev.json
+C:\Users\arnab\Documents\CancelTheTrains\bin\Debug\net5.0\CancelTheTrains.dll
+c:\Users\arnab\Documents\CancelTheTrains\bin\Debug\net5.0\ref\CancelTheTrains.dll
+C:\Users\arnab\Documents\CancelTheTrains\bin\Debug\net5.0\CancelTheTrains.pdb
+C:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\CancelTheTrains.csprojAssemblyReference.cache
+C:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\CancelTheTrains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\CancelTheTrains.AssemblyInfoInputs.cache
+C:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\CancelTheTrains.AssemblyInfo.cs
+C:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\CancelTheTrains.csproj.CoreCompileInputs.cache
+C:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\CancelTheTrains.dll
+C:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\ref\CancelTheTrains.dll
+C:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\CancelTheTrains.pdb
+c:\Users\arnab\Documents\CancelTheTrains\obj\Debug\net5.0\CancelTheTrains.genruntimeconfig.cache
