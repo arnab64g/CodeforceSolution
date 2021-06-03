@@ -1,0 +1,16 @@
+C:\Users\arnab\Documents\DominoOnWindowsill\bin\Debug\net5.0\DominoOnWindowsill.exe
+c:\Users\arnab\Documents\DominoOnWindowsill\bin\Debug\net5.0\DominoOnWindowsill.deps.json
+c:\Users\arnab\Documents\DominoOnWindowsill\bin\Debug\net5.0\DominoOnWindowsill.runtimeconfig.json
+c:\Users\arnab\Documents\DominoOnWindowsill\bin\Debug\net5.0\DominoOnWindowsill.runtimeconfig.dev.json
+C:\Users\arnab\Documents\DominoOnWindowsill\bin\Debug\net5.0\DominoOnWindowsill.dll
+c:\Users\arnab\Documents\DominoOnWindowsill\bin\Debug\net5.0\ref\DominoOnWindowsill.dll
+C:\Users\arnab\Documents\DominoOnWindowsill\bin\Debug\net5.0\DominoOnWindowsill.pdb
+C:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\DominoOnWindowsill.csprojAssemblyReference.cache
+C:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\DominoOnWindowsill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\DominoOnWindowsill.AssemblyInfoInputs.cache
+C:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\DominoOnWindowsill.AssemblyInfo.cs
+C:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\DominoOnWindowsill.csproj.CoreCompileInputs.cache
+C:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\DominoOnWindowsill.dll
+C:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\ref\DominoOnWindowsill.dll
+C:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\DominoOnWindowsill.pdb
+c:\Users\arnab\Documents\DominoOnWindowsill\obj\Debug\net5.0\DominoOnWindowsill.genruntimeconfig.cache
