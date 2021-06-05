@@ -1,0 +1,16 @@
+C:\Users\arnab\Documents\NewYearAndNaming\bin\Debug\net5.0\NewYearAndNaming.exe
+c:\Users\arnab\Documents\NewYearAndNaming\bin\Debug\net5.0\NewYearAndNaming.deps.json
+c:\Users\arnab\Documents\NewYearAndNaming\bin\Debug\net5.0\NewYearAndNaming.runtimeconfig.json
+c:\Users\arnab\Documents\NewYearAndNaming\bin\Debug\net5.0\NewYearAndNaming.runtimeconfig.dev.json
+C:\Users\arnab\Documents\NewYearAndNaming\bin\Debug\net5.0\NewYearAndNaming.dll
+c:\Users\arnab\Documents\NewYearAndNaming\bin\Debug\net5.0\ref\NewYearAndNaming.dll
+C:\Users\arnab\Documents\NewYearAndNaming\bin\Debug\net5.0\NewYearAndNaming.pdb
+C:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\NewYearAndNaming.csprojAssemblyReference.cache
+C:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\NewYearAndNaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\NewYearAndNaming.AssemblyInfoInputs.cache
+C:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\NewYearAndNaming.AssemblyInfo.cs
+C:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\NewYearAndNaming.csproj.CoreCompileInputs.cache
+C:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\NewYearAndNaming.dll
+C:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\ref\NewYearAndNaming.dll
+C:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\NewYearAndNaming.pdb
+c:\Users\arnab\Documents\NewYearAndNaming\obj\Debug\net5.0\NewYearAndNaming.genruntimeconfig.cache
