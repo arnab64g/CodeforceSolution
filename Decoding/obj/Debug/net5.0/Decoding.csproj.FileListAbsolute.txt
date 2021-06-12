@@ -1,0 +1,16 @@
+C:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\Decoding.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\Decoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\Decoding.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\Decoding.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\Decoding.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\Decoding\bin\Debug\net5.0\Decoding.exe
+c:\Users\arnab\OneDrive\Documents\Decoding\bin\Debug\net5.0\Decoding.deps.json
+c:\Users\arnab\OneDrive\Documents\Decoding\bin\Debug\net5.0\Decoding.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Decoding\bin\Debug\net5.0\Decoding.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\Decoding\bin\Debug\net5.0\Decoding.dll
+c:\Users\arnab\OneDrive\Documents\Decoding\bin\Debug\net5.0\ref\Decoding.dll
+C:\Users\arnab\OneDrive\Documents\Decoding\bin\Debug\net5.0\Decoding.pdb
+C:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\Decoding.dll
+C:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\ref\Decoding.dll
+C:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\Decoding.pdb
+c:\Users\arnab\OneDrive\Documents\Decoding\obj\Debug\net5.0\Decoding.genruntimeconfig.cache
