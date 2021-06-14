@@ -1,0 +1,16 @@
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\bin\Debug\net5.0\IlyaAndQueries.exe
+c:\Users\arnab\OneDrive\Documents\IlyaAndQueries\bin\Debug\net5.0\IlyaAndQueries.deps.json
+c:\Users\arnab\OneDrive\Documents\IlyaAndQueries\bin\Debug\net5.0\IlyaAndQueries.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\IlyaAndQueries\bin\Debug\net5.0\IlyaAndQueries.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\bin\Debug\net5.0\IlyaAndQueries.dll
+c:\Users\arnab\OneDrive\Documents\IlyaAndQueries\bin\Debug\net5.0\ref\IlyaAndQueries.dll
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\bin\Debug\net5.0\IlyaAndQueries.pdb
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\IlyaAndQueries.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\IlyaAndQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\IlyaAndQueries.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\IlyaAndQueries.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\IlyaAndQueries.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\IlyaAndQueries.dll
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\ref\IlyaAndQueries.dll
+C:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\IlyaAndQueries.pdb
+c:\Users\arnab\OneDrive\Documents\IlyaAndQueries\obj\Debug\net5.0\IlyaAndQueries.genruntimeconfig.cache
