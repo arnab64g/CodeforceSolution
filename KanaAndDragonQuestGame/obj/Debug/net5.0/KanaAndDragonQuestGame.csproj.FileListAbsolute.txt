@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\bin\Debug\net5.0\KanaAndDragonQuestGame.exe
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\bin\Debug\net5.0\KanaAndDragonQuestGame.deps.json
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\bin\Debug\net5.0\KanaAndDragonQuestGame.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\bin\Debug\net5.0\KanaAndDragonQuestGame.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\bin\Debug\net5.0\KanaAndDragonQuestGame.dll
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\bin\Debug\net5.0\ref\KanaAndDragonQuestGame.dll
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\bin\Debug\net5.0\KanaAndDragonQuestGame.pdb
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\KanaAndDragonQuestGame.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\KanaAndDragonQuestGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\KanaAndDragonQuestGame.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\KanaAndDragonQuestGame.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\KanaAndDragonQuestGame.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\KanaAndDragonQuestGame.dll
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\ref\KanaAndDragonQuestGame.dll
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\KanaAndDragonQuestGame.pdb
+c:\Users\arnab\OneDrive\Documents\KanaAndDragonQuestGame\obj\Debug\net5.0\KanaAndDragonQuestGame.genruntimeconfig.cache
