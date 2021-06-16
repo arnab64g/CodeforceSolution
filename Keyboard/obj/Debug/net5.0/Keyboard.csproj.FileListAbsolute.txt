@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\Keyboard\bin\Debug\net5.0\Keyboard.exe
+c:\Users\arnab\OneDrive\Documents\Keyboard\bin\Debug\net5.0\Keyboard.deps.json
+c:\Users\arnab\OneDrive\Documents\Keyboard\bin\Debug\net5.0\Keyboard.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Keyboard\bin\Debug\net5.0\Keyboard.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\Keyboard\bin\Debug\net5.0\Keyboard.dll
+c:\Users\arnab\OneDrive\Documents\Keyboard\bin\Debug\net5.0\ref\Keyboard.dll
+c:\Users\arnab\OneDrive\Documents\Keyboard\bin\Debug\net5.0\Keyboard.pdb
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\Keyboard.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\Keyboard.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\Keyboard.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\Keyboard.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\Keyboard.dll
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\ref\Keyboard.dll
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\Keyboard.pdb
+c:\Users\arnab\OneDrive\Documents\Keyboard\obj\Debug\net5.0\Keyboard.genruntimeconfig.cache
