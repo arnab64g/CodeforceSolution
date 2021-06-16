@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\SortTheArray.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\SortTheArray.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\SortTheArray.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\SortTheArray.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\SortTheArray.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\SortTheArray\bin\Debug\net5.0\SortTheArray.exe
+c:\Users\arnab\OneDrive\Documents\SortTheArray\bin\Debug\net5.0\SortTheArray.deps.json
+c:\Users\arnab\OneDrive\Documents\SortTheArray\bin\Debug\net5.0\SortTheArray.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\SortTheArray\bin\Debug\net5.0\SortTheArray.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\SortTheArray\bin\Debug\net5.0\SortTheArray.dll
+c:\Users\arnab\OneDrive\Documents\SortTheArray\bin\Debug\net5.0\ref\SortTheArray.dll
+c:\Users\arnab\OneDrive\Documents\SortTheArray\bin\Debug\net5.0\SortTheArray.pdb
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\SortTheArray.dll
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\ref\SortTheArray.dll
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\SortTheArray.pdb
+c:\Users\arnab\OneDrive\Documents\SortTheArray\obj\Debug\net5.0\SortTheArray.genruntimeconfig.cache
