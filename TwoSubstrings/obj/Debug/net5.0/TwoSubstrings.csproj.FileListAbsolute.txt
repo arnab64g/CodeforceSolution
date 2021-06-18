@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\bin\Debug\net5.0\TwoSubstrings.exe
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\bin\Debug\net5.0\TwoSubstrings.deps.json
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\bin\Debug\net5.0\TwoSubstrings.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\bin\Debug\net5.0\TwoSubstrings.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\bin\Debug\net5.0\TwoSubstrings.dll
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\bin\Debug\net5.0\ref\TwoSubstrings.dll
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\bin\Debug\net5.0\TwoSubstrings.pdb
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\TwoSubstrings.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\TwoSubstrings.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\TwoSubstrings.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\TwoSubstrings.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\TwoSubstrings.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\TwoSubstrings.dll
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\ref\TwoSubstrings.dll
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\TwoSubstrings.pdb
+c:\Users\arnab\OneDrive\Documents\TwoSubstrings\obj\Debug\net5.0\TwoSubstrings.genruntimeconfig.cache
