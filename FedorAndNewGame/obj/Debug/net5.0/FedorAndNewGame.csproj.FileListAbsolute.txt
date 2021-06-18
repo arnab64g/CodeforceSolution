@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\bin\Debug\net5.0\FedorAndNewGame.exe
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\bin\Debug\net5.0\FedorAndNewGame.deps.json
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\bin\Debug\net5.0\FedorAndNewGame.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\bin\Debug\net5.0\FedorAndNewGame.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\bin\Debug\net5.0\FedorAndNewGame.dll
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\bin\Debug\net5.0\ref\FedorAndNewGame.dll
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\bin\Debug\net5.0\FedorAndNewGame.pdb
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\FedorAndNewGame.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\FedorAndNewGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\FedorAndNewGame.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\FedorAndNewGame.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\FedorAndNewGame.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\FedorAndNewGame.dll
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\ref\FedorAndNewGame.dll
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\FedorAndNewGame.pdb
+c:\Users\arnab\OneDrive\Documents\FedorAndNewGame\obj\Debug\net5.0\FedorAndNewGame.genruntimeconfig.cache
