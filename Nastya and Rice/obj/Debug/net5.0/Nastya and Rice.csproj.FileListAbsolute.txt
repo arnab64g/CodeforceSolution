@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\bin\Debug\net5.0\Nastya and Rice.exe
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\bin\Debug\net5.0\Nastya and Rice.deps.json
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\bin\Debug\net5.0\Nastya and Rice.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\bin\Debug\net5.0\Nastya and Rice.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\bin\Debug\net5.0\Nastya and Rice.dll
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\bin\Debug\net5.0\ref\Nastya and Rice.dll
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\bin\Debug\net5.0\Nastya and Rice.pdb
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\Nastya and Rice.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\Nastya and Rice.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\Nastya and Rice.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\Nastya and Rice.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\Nastya and Rice.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\Nastya and Rice.dll
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\ref\Nastya and Rice.dll
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\Nastya and Rice.pdb
+c:\Users\arnab\OneDrive\Documents\Nastya and Rice\obj\Debug\net5.0\Nastya and Rice.genruntimeconfig.cache
