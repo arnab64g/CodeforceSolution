@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\Twor-gram\bin\Debug\net5.0\Twor-gram.exe
+c:\Users\arnab\OneDrive\Documents\Twor-gram\bin\Debug\net5.0\Twor-gram.deps.json
+c:\Users\arnab\OneDrive\Documents\Twor-gram\bin\Debug\net5.0\Twor-gram.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Twor-gram\bin\Debug\net5.0\Twor-gram.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\Twor-gram\bin\Debug\net5.0\Twor-gram.dll
+c:\Users\arnab\OneDrive\Documents\Twor-gram\bin\Debug\net5.0\ref\Twor-gram.dll
+c:\Users\arnab\OneDrive\Documents\Twor-gram\bin\Debug\net5.0\Twor-gram.pdb
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\Twor-gram.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\Twor-gram.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\Twor-gram.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\Twor-gram.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\Twor-gram.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\Twor-gram.dll
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\ref\Twor-gram.dll
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\Twor-gram.pdb
+c:\Users\arnab\OneDrive\Documents\Twor-gram\obj\Debug\net5.0\Twor-gram.genruntimeconfig.cache
