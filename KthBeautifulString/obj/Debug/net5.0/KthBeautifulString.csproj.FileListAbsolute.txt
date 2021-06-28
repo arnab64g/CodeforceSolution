@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\bin\Debug\net5.0\KthBeautifulString.exe
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\bin\Debug\net5.0\KthBeautifulString.deps.json
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\bin\Debug\net5.0\KthBeautifulString.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\bin\Debug\net5.0\KthBeautifulString.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\bin\Debug\net5.0\KthBeautifulString.dll
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\bin\Debug\net5.0\ref\KthBeautifulString.dll
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\bin\Debug\net5.0\KthBeautifulString.pdb
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\KthBeautifulString.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\KthBeautifulString.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\KthBeautifulString.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\KthBeautifulString.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\KthBeautifulString.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\KthBeautifulString.dll
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\ref\KthBeautifulString.dll
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\KthBeautifulString.pdb
+c:\Users\arnab\OneDrive\Documents\KthBeautifulString\obj\Debug\net5.0\KthBeautifulString.genruntimeconfig.cache
