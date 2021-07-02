@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\Exams\bin\Debug\net5.0\Exams.exe
+c:\Users\arnab\OneDrive\Documents\Exams\bin\Debug\net5.0\Exams.deps.json
+c:\Users\arnab\OneDrive\Documents\Exams\bin\Debug\net5.0\Exams.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Exams\bin\Debug\net5.0\Exams.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\Exams\bin\Debug\net5.0\Exams.dll
+c:\Users\arnab\OneDrive\Documents\Exams\bin\Debug\net5.0\ref\Exams.dll
+c:\Users\arnab\OneDrive\Documents\Exams\bin\Debug\net5.0\Exams.pdb
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\Exams.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\Exams.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\Exams.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\Exams.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\Exams.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\Exams.dll
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\ref\Exams.dll
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\Exams.pdb
+c:\Users\arnab\OneDrive\Documents\Exams\obj\Debug\net5.0\Exams.genruntimeconfig.cache
