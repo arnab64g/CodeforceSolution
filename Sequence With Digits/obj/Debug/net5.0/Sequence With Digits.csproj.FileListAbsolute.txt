@@ -1,0 +1,16 @@
+C:\Users\arnab\Documents\Sequence With Digits\bin\Debug\net5.0\Sequence With Digits.exe
+C:\Users\arnab\Documents\Sequence With Digits\bin\Debug\net5.0\Sequence With Digits.deps.json
+C:\Users\arnab\Documents\Sequence With Digits\bin\Debug\net5.0\Sequence With Digits.runtimeconfig.json
+C:\Users\arnab\Documents\Sequence With Digits\bin\Debug\net5.0\Sequence With Digits.runtimeconfig.dev.json
+C:\Users\arnab\Documents\Sequence With Digits\bin\Debug\net5.0\Sequence With Digits.dll
+C:\Users\arnab\Documents\Sequence With Digits\bin\Debug\net5.0\ref\Sequence With Digits.dll
+C:\Users\arnab\Documents\Sequence With Digits\bin\Debug\net5.0\Sequence With Digits.pdb
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\Sequence With Digits.csproj.AssemblyReference.cache
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\Sequence With Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\Sequence With Digits.AssemblyInfoInputs.cache
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\Sequence With Digits.AssemblyInfo.cs
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\Sequence With Digits.csproj.CoreCompileInputs.cache
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\Sequence With Digits.dll
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\ref\Sequence With Digits.dll
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\Sequence With Digits.pdb
+C:\Users\arnab\Documents\Sequence With Digits\obj\Debug\net5.0\Sequence With Digits.genruntimeconfig.cache
