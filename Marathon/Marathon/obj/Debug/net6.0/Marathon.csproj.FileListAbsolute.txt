@@ -1,0 +1,15 @@
+D:\Marathon\Marathon\bin\Debug\net6.0\Marathon.exe
+D:\Marathon\Marathon\bin\Debug\net6.0\Marathon.deps.json
+D:\Marathon\Marathon\bin\Debug\net6.0\Marathon.runtimeconfig.json
+D:\Marathon\Marathon\bin\Debug\net6.0\Marathon.dll
+D:\Marathon\Marathon\bin\Debug\net6.0\Marathon.pdb
+D:\Marathon\Marathon\obj\Debug\net6.0\Marathon.csproj.AssemblyReference.cache
+D:\Marathon\Marathon\obj\Debug\net6.0\Marathon.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marathon\Marathon\obj\Debug\net6.0\Marathon.AssemblyInfoInputs.cache
+D:\Marathon\Marathon\obj\Debug\net6.0\Marathon.AssemblyInfo.cs
+D:\Marathon\Marathon\obj\Debug\net6.0\Marathon.csproj.CoreCompileInputs.cache
+D:\Marathon\Marathon\obj\Debug\net6.0\Marathon.dll
+D:\Marathon\Marathon\obj\Debug\net6.0\refint\Marathon.dll
+D:\Marathon\Marathon\obj\Debug\net6.0\Marathon.pdb
+D:\Marathon\Marathon\obj\Debug\net6.0\Marathon.genruntimeconfig.cache
+D:\Marathon\Marathon\obj\Debug\net6.0\ref\Marathon.dll
