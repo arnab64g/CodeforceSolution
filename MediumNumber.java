@@ -13,5 +13,6 @@ class MediumNumber{
 
             System.out.println(a[1]);
         }
+        sc.close(); 
     }
 }
