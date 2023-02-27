@@ -1,0 +1,15 @@
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.csproj.AssemblyReference.cache
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.AssemblyInfoInputs.cache
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.AssemblyInfo.cs
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.csproj.CoreCompileInputs.cache
+D:\Github\CodeforceSolution\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.exe
+D:\Github\CodeforceSolution\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.deps.json
+D:\Github\CodeforceSolution\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.runtimeconfig.json
+D:\Github\CodeforceSolution\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.dll
+D:\Github\CodeforceSolution\CodeforcesChecking\bin\Debug\net7.0\CodeforcesChecking.pdb
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.dll
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\refint\CodeforcesChecking.dll
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.pdb
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\CodeforcesChecking.genruntimeconfig.cache
+D:\Github\CodeforceSolution\CodeforcesChecking\obj\Debug\net7.0\ref\CodeforcesChecking.dll
