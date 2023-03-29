@@ -1,0 +1,15 @@
+D:\Github\FollowingDirections\FollowingDirections\bin\Debug\net7.0\FollowingDirections.exe
+D:\Github\FollowingDirections\FollowingDirections\bin\Debug\net7.0\FollowingDirections.deps.json
+D:\Github\FollowingDirections\FollowingDirections\bin\Debug\net7.0\FollowingDirections.runtimeconfig.json
+D:\Github\FollowingDirections\FollowingDirections\bin\Debug\net7.0\FollowingDirections.dll
+D:\Github\FollowingDirections\FollowingDirections\bin\Debug\net7.0\FollowingDirections.pdb
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\FollowingDirections.csproj.AssemblyReference.cache
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\FollowingDirections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\FollowingDirections.AssemblyInfoInputs.cache
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\FollowingDirections.AssemblyInfo.cs
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\FollowingDirections.csproj.CoreCompileInputs.cache
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\FollowingDirections.dll
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\refint\FollowingDirections.dll
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\FollowingDirections.pdb
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\FollowingDirections.genruntimeconfig.cache
+D:\Github\FollowingDirections\FollowingDirections\obj\Debug\net7.0\ref\FollowingDirections.dll
