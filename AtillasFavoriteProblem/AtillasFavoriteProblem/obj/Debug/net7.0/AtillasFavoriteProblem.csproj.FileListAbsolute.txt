@@ -1,0 +1,15 @@
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\bin\Debug\net7.0\AtillasFavoriteProblem.exe
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\bin\Debug\net7.0\AtillasFavoriteProblem.deps.json
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\bin\Debug\net7.0\AtillasFavoriteProblem.runtimeconfig.json
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\bin\Debug\net7.0\AtillasFavoriteProblem.dll
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\bin\Debug\net7.0\AtillasFavoriteProblem.pdb
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\AtillasFavoriteProblem.csproj.AssemblyReference.cache
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\AtillasFavoriteProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\AtillasFavoriteProblem.AssemblyInfoInputs.cache
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\AtillasFavoriteProblem.AssemblyInfo.cs
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\AtillasFavoriteProblem.csproj.CoreCompileInputs.cache
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\AtillasFavoriteProblem.dll
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\refint\AtillasFavoriteProblem.dll
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\AtillasFavoriteProblem.pdb
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\AtillasFavoriteProblem.genruntimeconfig.cache
+D:\Github\AtillasFavoriteProblem\AtillasFavoriteProblem\obj\Debug\net7.0\ref\AtillasFavoriteProblem.dll
