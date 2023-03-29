@@ -1,0 +1,15 @@
+D:\Github\Triple\Triple\bin\Debug\net7.0\Triple.exe
+D:\Github\Triple\Triple\bin\Debug\net7.0\Triple.deps.json
+D:\Github\Triple\Triple\bin\Debug\net7.0\Triple.runtimeconfig.json
+D:\Github\Triple\Triple\bin\Debug\net7.0\Triple.dll
+D:\Github\Triple\Triple\bin\Debug\net7.0\Triple.pdb
+D:\Github\Triple\Triple\obj\Debug\net7.0\Triple.csproj.AssemblyReference.cache
+D:\Github\Triple\Triple\obj\Debug\net7.0\Triple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Triple\Triple\obj\Debug\net7.0\Triple.AssemblyInfoInputs.cache
+D:\Github\Triple\Triple\obj\Debug\net7.0\Triple.AssemblyInfo.cs
+D:\Github\Triple\Triple\obj\Debug\net7.0\Triple.csproj.CoreCompileInputs.cache
+D:\Github\Triple\Triple\obj\Debug\net7.0\Triple.dll
+D:\Github\Triple\Triple\obj\Debug\net7.0\refint\Triple.dll
+D:\Github\Triple\Triple\obj\Debug\net7.0\Triple.pdb
+D:\Github\Triple\Triple\obj\Debug\net7.0\Triple.genruntimeconfig.cache
+D:\Github\Triple\Triple\obj\Debug\net7.0\ref\Triple.dll

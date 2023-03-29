@@ -1,0 +1,15 @@
+D:\Github\Plus or Minus\Plus or Minus\bin\Debug\net7.0\Plus or Minus.exe
+D:\Github\Plus or Minus\Plus or Minus\bin\Debug\net7.0\Plus or Minus.deps.json
+D:\Github\Plus or Minus\Plus or Minus\bin\Debug\net7.0\Plus or Minus.runtimeconfig.json
+D:\Github\Plus or Minus\Plus or Minus\bin\Debug\net7.0\Plus or Minus.dll
+D:\Github\Plus or Minus\Plus or Minus\bin\Debug\net7.0\Plus or Minus.pdb
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\Plus or Minus.csproj.AssemblyReference.cache
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\Plus or Minus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\Plus or Minus.AssemblyInfoInputs.cache
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\Plus or Minus.AssemblyInfo.cs
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\Plus or Minus.csproj.CoreCompileInputs.cache
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\Plus or Minus.dll
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\refint\Plus or Minus.dll
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\Plus or Minus.pdb
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\Plus or Minus.genruntimeconfig.cache
+D:\Github\Plus or Minus\Plus or Minus\obj\Debug\net7.0\ref\Plus or Minus.dll
