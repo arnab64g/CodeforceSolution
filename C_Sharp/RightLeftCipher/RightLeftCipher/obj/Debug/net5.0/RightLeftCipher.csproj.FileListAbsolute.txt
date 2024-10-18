@@ -1,0 +1,16 @@
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\bin\Debug\net5.0\RightLeftCipher.exe
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\bin\Debug\net5.0\RightLeftCipher.deps.json
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\bin\Debug\net5.0\RightLeftCipher.runtimeconfig.json
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\bin\Debug\net5.0\RightLeftCipher.runtimeconfig.dev.json
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\bin\Debug\net5.0\RightLeftCipher.dll
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\bin\Debug\net5.0\ref\RightLeftCipher.dll
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\bin\Debug\net5.0\RightLeftCipher.pdb
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\RightLeftCipher.csproj.AssemblyReference.cache
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\RightLeftCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\RightLeftCipher.AssemblyInfoInputs.cache
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\RightLeftCipher.AssemblyInfo.cs
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\RightLeftCipher.csproj.CoreCompileInputs.cache
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\RightLeftCipher.dll
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\ref\RightLeftCipher.dll
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\RightLeftCipher.pdb
+C:\Users\arnab\source\repos\RightLeftCipher\RightLeftCipher\obj\Debug\net5.0\RightLeftCipher.genruntimeconfig.cache

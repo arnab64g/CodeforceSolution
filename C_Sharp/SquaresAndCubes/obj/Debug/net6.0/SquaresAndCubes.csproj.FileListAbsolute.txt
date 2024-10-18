@@ -1,0 +1,15 @@
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\SquaresAndCubes.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\SquaresAndCubes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\SquaresAndCubes.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\SquaresAndCubes.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\SquaresAndCubes.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\bin\Debug\net6.0\SquaresAndCubes.exe
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\bin\Debug\net6.0\SquaresAndCubes.deps.json
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\bin\Debug\net6.0\SquaresAndCubes.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\bin\Debug\net6.0\SquaresAndCubes.dll
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\bin\Debug\net6.0\SquaresAndCubes.pdb
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\SquaresAndCubes.dll
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\refint\SquaresAndCubes.dll
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\SquaresAndCubes.pdb
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\SquaresAndCubes.genruntimeconfig.cache
+c:\Users\arnab\OneDrive\Documents\SquaresAndCubes\obj\Debug\net6.0\ref\SquaresAndCubes.dll

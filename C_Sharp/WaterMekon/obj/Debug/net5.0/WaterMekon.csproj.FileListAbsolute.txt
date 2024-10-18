@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\WaterMekon.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\WaterMekon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\WaterMekon.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\WaterMekon.AssemblyInfo.cs
+C:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\WaterMekon.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\WaterMekon\bin\Debug\net5.0\WaterMekon.exe
+c:\Users\Arnab\Documents\WaterMekon\bin\Debug\net5.0\WaterMekon.deps.json
+c:\Users\Arnab\Documents\WaterMekon\bin\Debug\net5.0\WaterMekon.runtimeconfig.json
+c:\Users\Arnab\Documents\WaterMekon\bin\Debug\net5.0\WaterMekon.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\WaterMekon\bin\Debug\net5.0\WaterMekon.dll
+c:\Users\Arnab\Documents\WaterMekon\bin\Debug\net5.0\ref\WaterMekon.dll
+C:\Users\Arnab\Documents\WaterMekon\bin\Debug\net5.0\WaterMekon.pdb
+C:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\WaterMekon.dll
+C:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\ref\WaterMekon.dll
+C:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\WaterMekon.pdb
+c:\Users\Arnab\Documents\WaterMekon\obj\Debug\net5.0\WaterMekon.genruntimeconfig.cache

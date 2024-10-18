@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\Party\bin\Debug\net5.0\Party.exe
+c:\Users\arnab\OneDrive\Documents\Party\bin\Debug\net5.0\Party.deps.json
+c:\Users\arnab\OneDrive\Documents\Party\bin\Debug\net5.0\Party.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Party\bin\Debug\net5.0\Party.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\Party\bin\Debug\net5.0\Party.dll
+c:\Users\arnab\OneDrive\Documents\Party\bin\Debug\net5.0\ref\Party.dll
+c:\Users\arnab\OneDrive\Documents\Party\bin\Debug\net5.0\Party.pdb
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\Party.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\Party.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\Party.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\Party.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\Party.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\Party.dll
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\ref\Party.dll
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\Party.pdb
+c:\Users\arnab\OneDrive\Documents\Party\obj\Debug\net5.0\Party.genruntimeconfig.cache

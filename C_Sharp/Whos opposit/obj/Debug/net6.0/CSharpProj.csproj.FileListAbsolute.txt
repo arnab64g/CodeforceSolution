@@ -1,0 +1,15 @@
+C:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\CSharpProj.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\CSharpProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\CSharpProj.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\CSharpProj.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\CSharpProj.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\CSharpProj\bin\Debug\net6.0\CSharpProj.exe
+c:\Users\arnab\OneDrive\Documents\CSharpProj\bin\Debug\net6.0\CSharpProj.deps.json
+c:\Users\arnab\OneDrive\Documents\CSharpProj\bin\Debug\net6.0\CSharpProj.runtimeconfig.json
+C:\Users\arnab\OneDrive\Documents\CSharpProj\bin\Debug\net6.0\CSharpProj.dll
+c:\Users\arnab\OneDrive\Documents\CSharpProj\bin\Debug\net6.0\ref\CSharpProj.dll
+C:\Users\arnab\OneDrive\Documents\CSharpProj\bin\Debug\net6.0\CSharpProj.pdb
+C:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\CSharpProj.dll
+C:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\ref\CSharpProj.dll
+C:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\CSharpProj.pdb
+c:\Users\arnab\OneDrive\Documents\CSharpProj\obj\Debug\net6.0\CSharpProj.genruntimeconfig.cache

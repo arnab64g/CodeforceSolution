@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\VanyaAndLanterns\bin\Debug\net5.0\VanyaAndLanterns.exe
+c:\Users\Arnab\Documents\VanyaAndLanterns\bin\Debug\net5.0\VanyaAndLanterns.deps.json
+c:\Users\Arnab\Documents\VanyaAndLanterns\bin\Debug\net5.0\VanyaAndLanterns.runtimeconfig.json
+c:\Users\Arnab\Documents\VanyaAndLanterns\bin\Debug\net5.0\VanyaAndLanterns.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\VanyaAndLanterns\bin\Debug\net5.0\VanyaAndLanterns.dll
+c:\Users\Arnab\Documents\VanyaAndLanterns\bin\Debug\net5.0\ref\VanyaAndLanterns.dll
+C:\Users\Arnab\Documents\VanyaAndLanterns\bin\Debug\net5.0\VanyaAndLanterns.pdb
+C:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\VanyaAndLanterns.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\VanyaAndLanterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\VanyaAndLanterns.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\VanyaAndLanterns.AssemblyInfo.cs
+C:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\VanyaAndLanterns.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\VanyaAndLanterns.dll
+C:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\ref\VanyaAndLanterns.dll
+C:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\VanyaAndLanterns.pdb
+c:\Users\Arnab\Documents\VanyaAndLanterns\obj\Debug\net5.0\VanyaAndLanterns.genruntimeconfig.cache

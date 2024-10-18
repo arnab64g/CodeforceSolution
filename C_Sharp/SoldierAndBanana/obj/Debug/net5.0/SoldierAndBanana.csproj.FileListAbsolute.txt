@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\SoldierAndBanana\bin\Debug\net5.0\SoldierAndBanana.exe
+c:\Users\Arnab\Documents\SoldierAndBanana\bin\Debug\net5.0\SoldierAndBanana.deps.json
+c:\Users\Arnab\Documents\SoldierAndBanana\bin\Debug\net5.0\SoldierAndBanana.runtimeconfig.json
+c:\Users\Arnab\Documents\SoldierAndBanana\bin\Debug\net5.0\SoldierAndBanana.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\SoldierAndBanana\bin\Debug\net5.0\SoldierAndBanana.dll
+c:\Users\Arnab\Documents\SoldierAndBanana\bin\Debug\net5.0\ref\SoldierAndBanana.dll
+C:\Users\Arnab\Documents\SoldierAndBanana\bin\Debug\net5.0\SoldierAndBanana.pdb
+C:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\SoldierAndBanana.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\SoldierAndBanana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\SoldierAndBanana.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\SoldierAndBanana.AssemblyInfo.cs
+C:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\SoldierAndBanana.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\SoldierAndBanana.dll
+C:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\ref\SoldierAndBanana.dll
+C:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\SoldierAndBanana.pdb
+c:\Users\Arnab\Documents\SoldierAndBanana\obj\Debug\net5.0\SoldierAndBanana.genruntimeconfig.cache

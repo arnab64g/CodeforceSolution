@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\bin\Debug\net5.0\TwoTeamsComposing.exe
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\bin\Debug\net5.0\TwoTeamsComposing.deps.json
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\bin\Debug\net5.0\TwoTeamsComposing.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\bin\Debug\net5.0\TwoTeamsComposing.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\bin\Debug\net5.0\TwoTeamsComposing.dll
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\bin\Debug\net5.0\ref\TwoTeamsComposing.dll
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\bin\Debug\net5.0\TwoTeamsComposing.pdb
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\TwoTeamsComposing.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\TwoTeamsComposing.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\TwoTeamsComposing.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\TwoTeamsComposing.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\TwoTeamsComposing.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\TwoTeamsComposing.dll
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\ref\TwoTeamsComposing.dll
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\TwoTeamsComposing.pdb
+c:\Users\arnab\OneDrive\Documents\TwoTeamsComposing\obj\Debug\net5.0\TwoTeamsComposing.genruntimeconfig.cache

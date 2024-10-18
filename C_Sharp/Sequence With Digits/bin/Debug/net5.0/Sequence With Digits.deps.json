@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sequence With Digits/1.0.0": {
+        "runtime": {
+          "Sequence With Digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sequence With Digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
