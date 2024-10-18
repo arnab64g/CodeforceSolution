@@ -1,0 +1,16 @@
+C:\Users\arnab\OneDrive\Documents\Laptops\bin\Debug\net5.0\Laptops.exe
+c:\Users\arnab\OneDrive\Documents\Laptops\bin\Debug\net5.0\Laptops.deps.json
+c:\Users\arnab\OneDrive\Documents\Laptops\bin\Debug\net5.0\Laptops.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Laptops\bin\Debug\net5.0\Laptops.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\Laptops\bin\Debug\net5.0\Laptops.dll
+c:\Users\arnab\OneDrive\Documents\Laptops\bin\Debug\net5.0\ref\Laptops.dll
+C:\Users\arnab\OneDrive\Documents\Laptops\bin\Debug\net5.0\Laptops.pdb
+C:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\Laptops.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\Laptops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\Laptops.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\Laptops.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\Laptops.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\Laptops.dll
+C:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\ref\Laptops.dll
+C:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\Laptops.pdb
+c:\Users\arnab\OneDrive\Documents\Laptops\obj\Debug\net5.0\Laptops.genruntimeconfig.cache

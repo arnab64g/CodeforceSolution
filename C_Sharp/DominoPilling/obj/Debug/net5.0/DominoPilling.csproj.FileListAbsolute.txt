@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\DominoPilling.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\DominoPilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\DominoPilling.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\DominoPilling.AssemblyInfo.cs
+C:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\DominoPilling.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\DominoPilling\bin\Debug\net5.0\DominoPilling.exe
+c:\Users\Arnab\Documents\DominoPilling\bin\Debug\net5.0\DominoPilling.deps.json
+c:\Users\Arnab\Documents\DominoPilling\bin\Debug\net5.0\DominoPilling.runtimeconfig.json
+c:\Users\Arnab\Documents\DominoPilling\bin\Debug\net5.0\DominoPilling.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\DominoPilling\bin\Debug\net5.0\DominoPilling.dll
+c:\Users\Arnab\Documents\DominoPilling\bin\Debug\net5.0\ref\DominoPilling.dll
+C:\Users\Arnab\Documents\DominoPilling\bin\Debug\net5.0\DominoPilling.pdb
+C:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\DominoPilling.dll
+C:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\ref\DominoPilling.dll
+C:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\DominoPilling.pdb
+c:\Users\Arnab\Documents\DominoPilling\obj\Debug\net5.0\DominoPilling.genruntimeconfig.cache

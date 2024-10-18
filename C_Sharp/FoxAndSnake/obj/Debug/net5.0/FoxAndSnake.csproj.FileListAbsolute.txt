@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\FoxAndSnake\bin\Debug\net5.0\FoxAndSnake.exe
+c:\Users\Arnab\Documents\FoxAndSnake\bin\Debug\net5.0\FoxAndSnake.deps.json
+c:\Users\Arnab\Documents\FoxAndSnake\bin\Debug\net5.0\FoxAndSnake.runtimeconfig.json
+c:\Users\Arnab\Documents\FoxAndSnake\bin\Debug\net5.0\FoxAndSnake.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\FoxAndSnake\bin\Debug\net5.0\FoxAndSnake.dll
+c:\Users\Arnab\Documents\FoxAndSnake\bin\Debug\net5.0\ref\FoxAndSnake.dll
+C:\Users\Arnab\Documents\FoxAndSnake\bin\Debug\net5.0\FoxAndSnake.pdb
+C:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\FoxAndSnake.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\FoxAndSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\FoxAndSnake.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\FoxAndSnake.AssemblyInfo.cs
+C:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\FoxAndSnake.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\FoxAndSnake.dll
+C:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\ref\FoxAndSnake.dll
+C:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\FoxAndSnake.pdb
+c:\Users\Arnab\Documents\FoxAndSnake\obj\Debug\net5.0\FoxAndSnake.genruntimeconfig.cache

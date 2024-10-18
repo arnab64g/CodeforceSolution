@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\Football\bin\Debug\net5.0\Football.exe
+c:\Users\arnab\OneDrive\Documents\Football\bin\Debug\net5.0\Football.deps.json
+c:\Users\arnab\OneDrive\Documents\Football\bin\Debug\net5.0\Football.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Football\bin\Debug\net5.0\Football.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\Football\bin\Debug\net5.0\Football.dll
+c:\Users\arnab\OneDrive\Documents\Football\bin\Debug\net5.0\ref\Football.dll
+c:\Users\arnab\OneDrive\Documents\Football\bin\Debug\net5.0\Football.pdb
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\Football.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\Football.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\Football.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\Football.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\Football.dll
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\ref\Football.dll
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\Football.pdb
+c:\Users\arnab\OneDrive\Documents\Football\obj\Debug\net5.0\Football.genruntimeconfig.cache

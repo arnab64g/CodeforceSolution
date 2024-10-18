@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\GameWithSticks.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\GameWithSticks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\GameWithSticks.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\GameWithSticks.AssemblyInfo.cs
+C:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\GameWithSticks.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\GameWithSticks\bin\Debug\net5.0\GameWithSticks.exe
+c:\Users\Arnab\Documents\GameWithSticks\bin\Debug\net5.0\GameWithSticks.deps.json
+c:\Users\Arnab\Documents\GameWithSticks\bin\Debug\net5.0\GameWithSticks.runtimeconfig.json
+c:\Users\Arnab\Documents\GameWithSticks\bin\Debug\net5.0\GameWithSticks.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\GameWithSticks\bin\Debug\net5.0\GameWithSticks.dll
+c:\Users\Arnab\Documents\GameWithSticks\bin\Debug\net5.0\ref\GameWithSticks.dll
+C:\Users\Arnab\Documents\GameWithSticks\bin\Debug\net5.0\GameWithSticks.pdb
+C:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\GameWithSticks.dll
+C:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\ref\GameWithSticks.dll
+C:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\GameWithSticks.pdb
+c:\Users\Arnab\Documents\GameWithSticks\obj\Debug\net5.0\GameWithSticks.genruntimeconfig.cache

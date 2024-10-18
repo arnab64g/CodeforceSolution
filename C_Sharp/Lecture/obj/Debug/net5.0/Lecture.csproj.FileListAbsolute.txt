@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\Lecture\bin\Debug\net5.0\Lecture.exe
+c:\Users\arnab\OneDrive\Documents\Lecture\bin\Debug\net5.0\Lecture.deps.json
+c:\Users\arnab\OneDrive\Documents\Lecture\bin\Debug\net5.0\Lecture.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\Lecture\bin\Debug\net5.0\Lecture.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\Lecture\bin\Debug\net5.0\Lecture.dll
+c:\Users\arnab\OneDrive\Documents\Lecture\bin\Debug\net5.0\ref\Lecture.dll
+c:\Users\arnab\OneDrive\Documents\Lecture\bin\Debug\net5.0\Lecture.pdb
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\Lecture.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\Lecture.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\Lecture.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\Lecture.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\Lecture.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\Lecture.dll
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\ref\Lecture.dll
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\Lecture.pdb
+c:\Users\arnab\OneDrive\Documents\Lecture\obj\Debug\net5.0\Lecture.genruntimeconfig.cache
