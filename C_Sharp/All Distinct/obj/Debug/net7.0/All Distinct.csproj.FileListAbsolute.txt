@@ -1,0 +1,15 @@
+C:\Users\arnab\OneDrive\Documents\All Distinct\bin\Debug\net7.0\All Distinct.exe
+C:\Users\arnab\OneDrive\Documents\All Distinct\bin\Debug\net7.0\All Distinct.deps.json
+C:\Users\arnab\OneDrive\Documents\All Distinct\bin\Debug\net7.0\All Distinct.runtimeconfig.json
+C:\Users\arnab\OneDrive\Documents\All Distinct\bin\Debug\net7.0\All Distinct.dll
+C:\Users\arnab\OneDrive\Documents\All Distinct\bin\Debug\net7.0\All Distinct.pdb
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\All Distinct.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\All Distinct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\All Distinct.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\All Distinct.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\All Distinct.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\All Distinct.dll
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\refint\All Distinct.dll
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\All Distinct.pdb
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\All Distinct.genruntimeconfig.cache
+C:\Users\arnab\OneDrive\Documents\All Distinct\obj\Debug\net7.0\ref\All Distinct.dll

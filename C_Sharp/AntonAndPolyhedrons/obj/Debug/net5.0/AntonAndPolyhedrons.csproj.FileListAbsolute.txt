@@ -1,0 +1,16 @@
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\bin\Debug\net5.0\AntonAndPolyhedrons.exe
+c:\Users\Arnab\Documents\AntonAndPolyhedrons\bin\Debug\net5.0\AntonAndPolyhedrons.deps.json
+c:\Users\Arnab\Documents\AntonAndPolyhedrons\bin\Debug\net5.0\AntonAndPolyhedrons.runtimeconfig.json
+c:\Users\Arnab\Documents\AntonAndPolyhedrons\bin\Debug\net5.0\AntonAndPolyhedrons.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\bin\Debug\net5.0\AntonAndPolyhedrons.dll
+c:\Users\Arnab\Documents\AntonAndPolyhedrons\bin\Debug\net5.0\ref\AntonAndPolyhedrons.dll
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\bin\Debug\net5.0\AntonAndPolyhedrons.pdb
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\AntonAndPolyhedrons.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\AntonAndPolyhedrons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\AntonAndPolyhedrons.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\AntonAndPolyhedrons.AssemblyInfo.cs
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\AntonAndPolyhedrons.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\AntonAndPolyhedrons.dll
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\ref\AntonAndPolyhedrons.dll
+C:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\AntonAndPolyhedrons.pdb
+c:\Users\Arnab\Documents\AntonAndPolyhedrons\obj\Debug\net5.0\AntonAndPolyhedrons.genruntimeconfig.cache

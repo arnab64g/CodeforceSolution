@@ -1,0 +1,16 @@
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\bin\Debug\net5.0\ConstructTheString.exe
+c:\Users\arnab\OneDrive\Documents\ConstructTheString\bin\Debug\net5.0\ConstructTheString.deps.json
+c:\Users\arnab\OneDrive\Documents\ConstructTheString\bin\Debug\net5.0\ConstructTheString.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\ConstructTheString\bin\Debug\net5.0\ConstructTheString.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\bin\Debug\net5.0\ConstructTheString.dll
+c:\Users\arnab\OneDrive\Documents\ConstructTheString\bin\Debug\net5.0\ref\ConstructTheString.dll
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\bin\Debug\net5.0\ConstructTheString.pdb
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ConstructTheString.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ConstructTheString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ConstructTheString.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ConstructTheString.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ConstructTheString.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ConstructTheString.dll
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ref\ConstructTheString.dll
+C:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ConstructTheString.pdb
+c:\Users\arnab\OneDrive\Documents\ConstructTheString\obj\Debug\net5.0\ConstructTheString.genruntimeconfig.cache

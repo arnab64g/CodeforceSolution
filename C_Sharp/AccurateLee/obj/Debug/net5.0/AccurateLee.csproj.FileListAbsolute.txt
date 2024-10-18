@@ -1,0 +1,16 @@
+c:\Users\arnab\Documents\AccurateLee\bin\Debug\net5.0\AccurateLee.exe
+c:\Users\arnab\Documents\AccurateLee\bin\Debug\net5.0\AccurateLee.deps.json
+c:\Users\arnab\Documents\AccurateLee\bin\Debug\net5.0\AccurateLee.runtimeconfig.json
+c:\Users\arnab\Documents\AccurateLee\bin\Debug\net5.0\AccurateLee.runtimeconfig.dev.json
+c:\Users\arnab\Documents\AccurateLee\bin\Debug\net5.0\AccurateLee.dll
+c:\Users\arnab\Documents\AccurateLee\bin\Debug\net5.0\ref\AccurateLee.dll
+c:\Users\arnab\Documents\AccurateLee\bin\Debug\net5.0\AccurateLee.pdb
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\AccurateLee.csproj.AssemblyReference.cache
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\AccurateLee.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\AccurateLee.AssemblyInfoInputs.cache
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\AccurateLee.AssemblyInfo.cs
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\AccurateLee.csproj.CoreCompileInputs.cache
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\AccurateLee.dll
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\ref\AccurateLee.dll
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\AccurateLee.pdb
+c:\Users\arnab\Documents\AccurateLee\obj\Debug\net5.0\AccurateLee.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\arnab\OneDrive\Documents\Blank Space\bin\Debug\net7.0\Blank Space.exe
+C:\Users\arnab\OneDrive\Documents\Blank Space\bin\Debug\net7.0\Blank Space.deps.json
+C:\Users\arnab\OneDrive\Documents\Blank Space\bin\Debug\net7.0\Blank Space.runtimeconfig.json
+C:\Users\arnab\OneDrive\Documents\Blank Space\bin\Debug\net7.0\Blank Space.dll
+C:\Users\arnab\OneDrive\Documents\Blank Space\bin\Debug\net7.0\Blank Space.pdb
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\Blank Space.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\Blank Space.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\Blank Space.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\Blank Space.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\Blank Space.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\Blank Space.dll
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\refint\Blank Space.dll
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\Blank Space.pdb
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\Blank Space.genruntimeconfig.cache
+C:\Users\arnab\OneDrive\Documents\Blank Space\obj\Debug\net7.0\ref\Blank Space.dll

@@ -1,0 +1,16 @@
+c:\Users\arnab\OneDrive\Documents\01 Game\bin\Debug\net5.0\01 Game.exe
+c:\Users\arnab\OneDrive\Documents\01 Game\bin\Debug\net5.0\01 Game.deps.json
+c:\Users\arnab\OneDrive\Documents\01 Game\bin\Debug\net5.0\01 Game.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\01 Game\bin\Debug\net5.0\01 Game.runtimeconfig.dev.json
+c:\Users\arnab\OneDrive\Documents\01 Game\bin\Debug\net5.0\01 Game.dll
+c:\Users\arnab\OneDrive\Documents\01 Game\bin\Debug\net5.0\ref\01 Game.dll
+c:\Users\arnab\OneDrive\Documents\01 Game\bin\Debug\net5.0\01 Game.pdb
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\01 Game.csproj.AssemblyReference.cache
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\01 Game.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\01 Game.AssemblyInfoInputs.cache
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\01 Game.AssemblyInfo.cs
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\01 Game.csproj.CoreCompileInputs.cache
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\01 Game.dll
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\ref\01 Game.dll
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\01 Game.pdb
+c:\Users\arnab\OneDrive\Documents\01 Game\obj\Debug\net5.0\01 Game.genruntimeconfig.cache
