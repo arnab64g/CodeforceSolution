@@ -7,5 +7,6 @@ for i in range(n):
     a[0], b[0] = b[0], a[0]
     x = ''.join(a)
     y = ''.join(b)
+    
     print(x, end=' ')
     print(y)

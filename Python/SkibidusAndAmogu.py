@@ -6,4 +6,5 @@ for i in range(t):
     a.pop()
     a.pop()
     a.append('i')
+    
     print(''.join(a))

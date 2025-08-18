@@ -2,6 +2,7 @@ t = int(input())
 
 for k in range(t):
     total = 0
+    
     for i in range(10):
         str = input()
         a = list(str)

@@ -12,6 +12,7 @@ int main(int argc, char const *argv[])
         {
             scanf("%d %d", &a[i], &b[i]);
         }
+        
         mx = 0;
         my = 0;
 
@@ -28,6 +29,7 @@ int main(int argc, char const *argv[])
             }
         
         }
+
         printf("%d\n", mx * my);
     }
 

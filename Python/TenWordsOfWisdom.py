@@ -7,8 +7,10 @@ for i in range(t):
 
     for j in range(n):
         str = input().split(' ')
+        
         a = int(str[0])
         b = int(str[1])
+
         if b > max_value and a <= 10:
             max_value = b
             pos = j + 1

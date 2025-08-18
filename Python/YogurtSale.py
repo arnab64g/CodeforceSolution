@@ -13,6 +13,7 @@ for i in range(t):
         total = a * n
     else:
         total = b * (n//2)
+        
         if n % 2 == 1:
             total += a
 

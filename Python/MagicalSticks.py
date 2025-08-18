@@ -1,4 +1,5 @@
 t = int(input())
+
 for i in range(t):
     n = int(input())
     n -= 1
@@ -6,4 +7,5 @@ for i in range(t):
     n /= 2
     n = int(n)
     n += 1
+    
     print(n)

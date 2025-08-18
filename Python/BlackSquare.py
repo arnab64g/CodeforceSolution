@@ -1,8 +1,10 @@
 s = input().split(' ')
 line = input()
 a = [0]*4
+
 for i in range(4):
     a[i] = int(s[i])
+
 l = len(line) 
 count = 0
 
@@ -15,5 +17,7 @@ for i in range(l):
         strp = 2
     elif line[i] == '4':
         strp = 3
+
     count += a[strp]
+
 print(count)
