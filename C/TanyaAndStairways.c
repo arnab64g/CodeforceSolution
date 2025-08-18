@@ -5,8 +5,10 @@ int main()
     int a[1005];
     int b[105];
     scanf("%d", &n);
+
     for (int i = 0; i < n; i++)
         scanf("%d", &a[i]);
+    
     prev = a[0];
     
     for (int i = 1; i < n; i++){
@@ -14,12 +16,17 @@ int main()
             count++;
             b[elem++] = prev;
         }
+
         prev = a[i];
     }
+
     b[elem++] = a[n-1];
     printf("%d\n", elem);
+
     for (int i = 0; i < elem; i++)
         printf("%d ", b[i]);
+
     printf("\n");
+
     return 0;
 }

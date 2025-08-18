@@ -6,9 +6,11 @@ int main()
     scanf("%d", &score);
     max = score;
     min = score;
+
     for (i = 1; i < n; i++)
     {
         scanf("%d", &score);
+    
         if (score > max){
             count++;
             max = score;
@@ -18,6 +20,7 @@ int main()
             min = score;
         }
     }
+    
     printf("%d\n", count);
     
     return 0;

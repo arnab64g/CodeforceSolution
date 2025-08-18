@@ -4,6 +4,7 @@ int main(int argc, char const *argv[])
 {
     int t, n, total;
     scanf("%d", &t);
+    
     while (t--)
     {
         char ch[11];
